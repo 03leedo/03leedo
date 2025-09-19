@@ -1,5 +1,10 @@
 ## Hi there 👋
+I'm doheon
 
+#I'm currently working on 
+
+#I'm currently learning
+* Data Structure
 <!--
 **03leedo/03leedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
